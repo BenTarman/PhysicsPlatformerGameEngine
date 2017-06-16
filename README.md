@@ -1,0 +1,3 @@
+# PhysicsPlatformerGameEngine
+Game engine using tmx parsing from Tiled Map editor to create customizable maps, Box2D for physics, and SFML for graphics. Includes generic classes
+to handle textures, fonts, sprites, etc...
